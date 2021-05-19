@@ -1,0 +1,7 @@
+Running: xsim.dir/epiano_tb_behav/xsimk.exe -simmode gui -wdb epiano_tb_behav.wdb -simrunnum 0 -socket 50128
+Design successfully loaded
+Design Loading Memory Usage: 5924 KB (Peak: 5924 KB)
+Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 14640 KB (Peak: 14640 KB)
+Simulation CPU Usage: 1496499 ms

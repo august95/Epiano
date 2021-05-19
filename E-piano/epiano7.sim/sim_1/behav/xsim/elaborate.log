@@ -1,0 +1,27 @@
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto d6eba140675c449da4f170ccbfd724ec --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot epiano_tb_behav xil_defaultlib.epiano_tb -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling architecture arch of entity xil_defaultlib.mod_m [mod_m_default]
+Compiling architecture behavioral of entity xil_defaultlib.UART_receiver [uart_receiver_default]
+Compiling architecture arch of entity xil_defaultlib.RAM_Counter [ram_counter_default]
+Compiling architecture beh_arch of entity xil_defaultlib.xilinx_one_port_ram_sync [xilinx_one_port_ram_sync_default]
+Compiling architecture behavioral of entity xil_defaultlib.Code_converter [code_converter_default]
+Compiling architecture behavioral of entity xil_defaultlib.mod_m_counter_TFF [mod_m_counter_tff_default]
+Compiling architecture behavioral of entity xil_defaultlib.TFF [tff_default]
+Compiling architecture arch of entity xil_defaultlib.timer [timer_default]
+Compiling architecture behavioral of entity xil_defaultlib.Control_Path [control_path_default]
+Compiling architecture behavioral of entity xil_defaultlib.top_level [top_level_default]
+Compiling architecture arch of entity xil_defaultlib.epiano_tb
+Built simulation snapshot epiano_tb_behav

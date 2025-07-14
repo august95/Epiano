@@ -1,2 +1,1 @@
-
-EPiano created by 6 students on a VHDL course at University of Souteastern-Norway
+EPiano - plays melodies from uart device. Also ontains RAM to record melodies. Implemented in VHDL.
